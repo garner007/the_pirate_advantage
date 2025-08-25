@@ -1,6 +1,6 @@
 ---
 title: The Pirate Advantage
-layout: default
+layout: default 
 ---
 
 # The Pirate Advantage: Why Agile Government-Focused Companies Need Bold Risk-Takers to Improve Lives
