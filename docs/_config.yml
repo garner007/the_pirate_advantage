@@ -1,0 +1,9 @@
+title: The Pirate Advantage
+description: Why agile government-focused companies need bold risk-takers to improve lives.
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+github:
+  is_project_page: true
